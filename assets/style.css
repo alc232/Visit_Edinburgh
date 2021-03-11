@@ -13,5 +13,14 @@
 }
 
 .navbar{
-    background-color: rgba(6, 59, 202, 0.288);
+    background-color: rgba(5, 56, 199, 0.932);
+    color: white;
+}
+
+a{
+    color: white;
+}
+
+a:hover {
+    color: lightblue;
 }
