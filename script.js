@@ -1,0 +1,1 @@
+window.onload = alert('Welcome to my page, here you can learn all about Edinburgh!!');
